@@ -220,7 +220,11 @@
 
     <div class="heroe">
 
+<<<<<<< HEAD
         <h1>Welcome to CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+=======
+        <h1>Welcome to Ahitsa's CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+>>>>>>> 9b7c52bfa46ebad40cd2f329943dac18c80ee509
 
         <h2>The small framework with powerful features</h2>
 
