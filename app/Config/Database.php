@@ -27,15 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-<<<<<<< HEAD
         'username'     => 'root',
         'password'     => '',
         'database'     => 'tugasbackend3',
-=======
-        'username'     => '',
-        'password'     => '',
-        'database'     => '',
->>>>>>> 9b7c52bfa46ebad40cd2f329943dac18c80ee509
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,

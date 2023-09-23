@@ -11,7 +11,7 @@ class ProductController extends BaseController {
     public function insertProduct(){
         $data = [
             'nama_product' => 'Melon',
-            'description' => 'Buah - buahan'
+            'description' => 'Nama dari Buah - buahan'
         ];
 
         $this->product->insertProductORM($data);
